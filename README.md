@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vinh
 - 👀 I’m interested in VS Code
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on @iamvinh123inc
+- 💞️ I’m looking to collaborate with @iamvinh123inc
 - 📫 How to reach me at this email: admin@iamvinhisthebest.tk
 
 <!---
